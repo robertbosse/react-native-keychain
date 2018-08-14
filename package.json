@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "react-native-keychain@2.0.0",
+      "/Users/robert/IBM/livenation-mobileapp"
+    ]
+  ],
+  "_from": "react-native-keychain@2.0.0",
+  "_id": "react-native-keychain@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-6XKr7JJi+8QgAkhFplIzr47if/lKLZRjz2rSUbsxLN5dAb2H29iorfpDkCzaBiXzeLF8dIR5yd/eptt31aZqSQ==",
+  "_location": "/react-native-keychain",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-keychain@2.0.0",
+    "name": "react-native-keychain",
+    "escapedName": "react-native-keychain",
+    "rawSpec": "2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-keychain/-/react-native-keychain-2.0.0.tgz",
+  "_spec": "2.0.0",
+  "_where": "/Users/robert/IBM/livenation-mobileapp",
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "bugs": {
+    "url": "https://github.com/oblador/react-native-keychain/issues"
+  },
+  "description": "Keychain Access for React Native",
+  "devDependencies": {
+    "flow-bin": "0.61.0"
+  },
+  "homepage": "https://github.com/oblador/react-native-keychain",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "keychain"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-keychain",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/react-native-keychain.git"
+  },
+  "scripts": {
+    "test": "flow"
+  },
+  "types": "typings/react-native-keychain.d.ts",
+  "typescript": {
+    "definition": "typings/react-native-keychain.d.ts"
+  },
+  "version": "2.0.0"
+}
